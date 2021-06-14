@@ -7,8 +7,11 @@ class Post
   def initialize(title, author = nil)
     @title = title 
     @author = author
+    save
   end
   
+  def save 
+    
   
   
 end
