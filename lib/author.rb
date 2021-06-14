@@ -10,8 +10,7 @@ class Author
   end
   
   def add_post_by_title(title)
-    self.posts << title
-    posts.author
+    
     
   
 end
