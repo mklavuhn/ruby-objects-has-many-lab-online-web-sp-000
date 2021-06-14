@@ -16,6 +16,7 @@ class Author
   end
   
   def posts 
+    Post.all.select {|posts| 
     
   
   def add_post(title)
