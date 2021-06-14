@@ -9,4 +9,6 @@ class Post
     @author = author
   end
   
+  
+  
 end
